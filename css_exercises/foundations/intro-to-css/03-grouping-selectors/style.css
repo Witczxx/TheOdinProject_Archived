@@ -1,0 +1,16 @@
+.style {
+    font-size: 28px;
+    font-family: 'helvetica', 'Times New Roman', 'sans-serif';
+    border-width: 1px;
+    border-color: rgb(35, 35, 35);
+    border-style: solid;
+}
+
+#black {
+    background-color: rgb(0, 0, 0);
+    color: white;
+} 
+
+#yellow {
+    background-color: yellow;
+}
